@@ -7,7 +7,7 @@
       <nuxt-link to="/user/101">用户-id</nuxt-link>
     </div>
 
-    user
+    user-one
   </div>
 </template>
 

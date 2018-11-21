@@ -1,6 +1,13 @@
 <template>
   <section class="container">
     <div>
+      <div>
+        <nuxt-link to="/">首页</nuxt-link>
+        <nuxt-link to="/user">用户</nuxt-link>
+        <nuxt-link to="/user/one">用户-one</nuxt-link>
+        <nuxt-link to="/user/101">用户-id</nuxt-link>
+      </div>
+
       <logo/>
       <h1 class="title">
         nuxt-myapp
